@@ -8,6 +8,7 @@ supported:
   - cpu
   - uart
   - serial
+  - gpio
 testing:
   only_tags:
     - introduction
